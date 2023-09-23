@@ -1,0 +1,53 @@
+# PARTE 1 
+
+Produto
+
+Você deve fazer a implementação desse software usando a linguagem de programação Python. O software deve:
+
+• Receber as informações preliminares de cada um dos candidatos (nome do candidato, idade e área da computação pretendida 
+
+(Engenharia de Software, Bancos de Dados, ou Análise e Projeto de Algoritmos);
+
+# PARTE 2
+
+• Fazer questionamentos em relação a cursos feitos pelo candidato na área pretendida. Para cada um dos cursos, perguntar a carga horária:
+
+o Curso de curta duração (até 10 horas): 1 ponto por curso
+
+o Curso de média duração (de 11 até 40 horas): 2 pontos por curso
+
+o Curso de longa duração (acima de 40 horas): 3 pontos por curso
+
+# PARTE 3
+
+• Para cursos em áreas afins:
+
+o Pontuação: 2 por curso
+
+• Para curso de língua estrangeira:
+
+o Pontuação: 2 por curso
+
+# PARTE 4
+
+• Fazer alguns questionamentos em relação à experiência do candidato:
+
+o Pesquisa/ trabalha na área pretendida há mais de 3 anos?
+
+o Possui certificações nacionais ou internacionais?
+
+o Já participou de alguma equipe de desenvolvimento de software para o governo?
+
+▪ Para cada resposta positiva é somado um ponto na pontuação total do candidato. Para cada resposta negativa não é somado nenhum valor.
+
+▪ O quesito “experiência do candidato” não é eliminatório, mas sim classificatório, ou seja, não exclui o candidato da disputa.
+
+# PARTE 5
+
+É importante que ao final da inserção dos dados, o programa seja também capaz de:
+
+• Calcular e mostrar o total de candidatos inseridos;
+
+• Calcular e mostrar o total de candidatos a cada uma das áreas;
+
+• Mostrar as duas maiores pontuações por área e os nomes dos respectivos candidatos.
